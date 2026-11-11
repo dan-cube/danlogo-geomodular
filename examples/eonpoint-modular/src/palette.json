@@ -1,0 +1,10 @@
+{
+  "name": "方案 A · 生成 · 墨 · 弁柄",
+  "colors": [
+    {"name": "生成 Kinari", "hex": "#EEE7D7", "role": "base", "ratio": 65},
+    {"name": "墨 Sumi", "hex": "#232220", "role": "ink", "ratio": 25},
+    {"name": "砂 Suna", "hex": "#D7CDB9", "role": "neutral", "ratio": 6},
+    {"name": "银鼠 Ginnezu", "hex": "#A9A9A6", "role": "neutral", "ratio": 2},
+    {"name": "弁柄 Bengara", "hex": "#9A3B1E", "role": "accent", "ratio": 2}
+  ]
+}
