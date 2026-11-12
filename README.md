@@ -2,6 +2,8 @@
 
 English · [中文](README.zh-CN.md)
 
+<img src="docs/images/hero.png" alt="DanLogo · Geometric Modular 几何模块: complete logo identity systems built from one kit of parts (case: EonPoint 亿触点 scheme A “Modulus”)" width="100%">
+
 > A few notes, one rule, and a melody that can be varied without end.
 
 The Geometric Modular direction of the danlogo series: a logo and brand-identity design skill for AI tools. It bundles a design style, a nine-stage working method and a set of drawing tools. The style's roots are the Chinese tradition of combinable furniture (the *Yanji* and *Dieji* table sets, the tangram), Froebel's gifts and the Bauhaus foundation course, concrete art, Karl Gerstner's programmatic design and modular architecture. It was distilled from the EonPoint 亿触点 scheme A "Modulus". It works with Claude (Claude Code, desktop, claude.ai), Codex, and any tool that reads the [Agent Skills](https://agentskills.io) format.

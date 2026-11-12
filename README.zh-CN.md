@@ -2,6 +2,8 @@
 
 [English](README.md) · 中文
 
+<img src="docs/images/hero.png" alt="DanLogo · Geometric Modular 几何模块：同源、同度的构件，按看得见的规则组合成一个完整的图形（案例：EonPoint 亿触点 方案 A「模数」）" width="100%">
+
 > 几个音，一条规则，一段可以无限变奏的旋律。
 
 danlogo 系列的几何模块方向：一个给 AI 用的 logo / 品牌标志设计 skill。它包含一种设计风格、一套九阶段工作方法和一组绘图工具。风格的思想来自中国的组合器物传统（燕几、蝶几、七巧板）、福禄贝尔的恩物与包豪斯基础课、具体艺术、格斯特纳的系统设计与模数建筑。沉淀自 EonPoint 亿触点的方案 A「模数」，适用于 Claude（Claude Code、桌面版、claude.ai）与 Codex，以及其他支持 [Agent Skills](https://agentskills.io) 格式的工具。
